@@ -1,6 +1,6 @@
 # Hi, I'm Lee Duxbury 👋
 
-I'm a career changer, transitioning from **Construction Project Management** to **Software Development**. After 4 years in construction management, I discovered my passion for problem-solving and tech, so I decided to switch gears and start learning how to code using Codecademy. I enrolled in the **NorthCoders** bootcamp in October 2024 and will be graduating in two weeks!
+I'm a career changer, transitioning from **Construction Project Management** to **Software Development**. After 4 years in construction management, I discovered my passion for problem-solving and tech, so I decided to switch gears and start learning how to code using Codecademy. I enrolled in the **NorthCoders** bootcamp in October 2024 and Graduated in January 2024. 
 
 I have gained solid experience with **JavaScript**, **Node.js**, **React**, **Express**, and **SQL** through various hands-on projects and exercises. My background in project management has given me a strong foundation in teamwork, deadlines, and effective communication, which I’m excited to apply in the tech world.
 
