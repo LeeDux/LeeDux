@@ -48,25 +48,8 @@ I'm looking to continue building my skills in **full-stack development** and exp
 Feel free to connect with me!
 - **LinkedIn**: [[linkedin-url](https://www.linkedin.com/in/lee-duxbury-798283110/)]
 - **Email**: [lee.duxbury94@yahoo.com]
+- **Portfolio** [https://lee-duxbury-portfolio.netlify.app/]
 
-
-
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @LeeDux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
 
 <!---
 LeeDux/LeeDux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
